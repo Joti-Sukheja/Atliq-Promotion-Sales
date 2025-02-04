@@ -36,14 +36,11 @@ This project is part of the **Codebasics Resume Challenge**, where I performed a
 
 ---
 
-## 📊 Key Business Objectives
-This project aims to answer important business questions provided in **Business_Objectives**:
-- How do different promotional campaigns impact product sales?
-- Which stores performed the best in terms of promotional effectiveness?
-- Which product categories benefited the most from promotions?
-- What is the revenue contribution from different promo types?
-- What are the top-performing and underperforming products during campaigns?
-- Which promotions resulted in the highest ROI?
+## 🎯 Business Objectives  
+This project aims to answer critical business questions related to **store performance, product performance, and promotional effectiveness.**
+- **Store Performance:** Identify high-performing stores and reasons behind their success.  
+- **Product Performance:** Analyze which products contribute the most to revenue.  
+- **Promotion Impact:** Evaluate how promotions influence sales and revenue.  
 
 ---
 
