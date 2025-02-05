@@ -1,30 +1,32 @@
 ## 📌 Project Overview
 This project is part of the **Codebasics Resume Challenge**, where I performed a detailed **Promotional Sales Analysis** for **Atliq** using **Excel**. The analysis aims to evaluate the impact of different promotional strategies on product and store performance, helping the business optimize future marketing campaigns. The project involves raw data processing, pivot table analysis, and dashboard visualizations.
 
-## 📂 Repository Structure
-📂 Atliq_Promotion_Sales (Excel)
+
+## Repository Structure
+```
+Atliq_Promotion_Sales (Excel)
 │-- 📂 Data
-│   ├── dim_campaigns.csv  # Campaign details
-│   ├── dim_products.csv  # Product information
-│   ├── dim_stores.csv  # Store details
-│   ├── fact_events.csv  # Sales transaction data
+│   ├── dim_campaigns.csv  
+│   ├── dim_products.csv  
+│   ├── dim_stores.csv  
+│   ├── fact_events.csv  
 │
-│-- 📂 dashboard_Workbook
-│   ├── Atliq pivot tables.pdf  # Pivot table analysis
-│   ├── atliq promotion sales dashboards.xlsx  # Dataset, pivot tables, and dashboards
+│-- 📂 Excel_Workbook
+│   ├── Atliq pivot tables.pdf  
+│   ├── atliq promotion sales dashboards.xlsx  
 │
-│-- 📂 Visual_Dashboards
-│   ├── Store_Performance.png  # Store performance insights
-│   ├── Product_Analysis.png  # Product sales performance
-│   ├── Promotion_Impact.png  # Promotional strategy effectiveness
-│   ├── All_Dashboards_Combined.pdf  # Consolidated insights
+│-- 📂 Dashboards
+│   ├── Store_Performance.png  
+│   ├── Product_Analysis.png  
+│   ├── Promotion_Impact.png  
+│   ├── All_Dashboards_Combined.pdf  
 │
 │-- 📂 Business_Objectives
-│   ├── Recommended_insights.pdf  # Key business insights & objectives
-│   ├── Business_Questions.pdf  # General business questions
+│   ├── Recommended_insights.pdf  
+│   ├── Business_requests.pdf  
 │
-│-- 📜 README.md  # Project documentation
-
+│-- 📜 README.md  
+```
 
 ---
 
@@ -77,6 +79,17 @@ This project aims to answer critical business questions related to **store perfo
 
 ---
 
+## 🚀 How to Use This Repository  
+1. **Download the repository** or clone it using:  
+   ```sh  
+   git clone <(https://github.com/Joti-Sukheja/Atliq-Promotion-Sales)>  
+   ```  
+2. Open `atliq promotion sales dashboards.xlsx` to explore the data and dashboards.  
+3. Refer to **Business_Objectives/** for key questions and recommended insights.  
+4. Analyze **Dashboards/** for graphical representations of findings.  
+5. Modify pivot tables in Excel for further analysis.  
+---
+
 ## 🏆 Project Impact
 This analysis helps Atliq:
 - Optimize **future promotional strategies**.
@@ -86,13 +99,19 @@ This analysis helps Atliq:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 This project showcases how **Excel-based data analysis** can drive business decisions. By analyzing promotional campaigns, I provided **actionable insights** that help Atliq enhance its marketing strategies and maximize revenue.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
 
 ---
 
 ## 🤝 Connect with Me
 If you're interested in discussing this project or data analysis in general, feel free to connect with me on **LinkedIn** or check out my **GitHub** for more projects!
 
-🔗 **LinkedIn**: [Your LinkedIn Profile](#)
-🔗 **GitHub**: [Your GitHub Profile](#)
+🔗 **LinkedIn**: [LinkedIn/joti-sukheja](www.linkedin.com/in/joti-sukheja)
+🔗 **GitHub**: [GitHub/joti-sukheja](https://github.com/Joti-Sukheja)
