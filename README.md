@@ -1,3 +1,5 @@
+# Atliq Promotion Sales Analysis
+
 ## 📌 Project Overview
 This project is part of the **Codebasics Resume Challenge**, where I performed a detailed **Promotional Sales Analysis** for **Atliq** using **Excel**. The analysis aims to evaluate the impact of different promotional strategies on product and store performance, helping the business optimize future marketing campaigns. The project involves raw data processing, pivot table analysis, and dashboard visualizations.
 
@@ -42,7 +44,16 @@ Atliq_Promotion_Sales (Excel)
 This project aims to answer critical business questions related to **store performance, product performance, and promotional effectiveness.**
 - **Store Performance:** Identify high-performing stores and reasons behind their success.  
 - **Product Performance:** Analyze which products contribute the most to revenue.  
-- **Promotion Impact:** Evaluate how promotions influence sales and revenue.  
+- **Promotion Impact:** Evaluate how promotions influence sales and revenue.
+
+--- 
+**Below are the key dashboards providing insights into store performance, product trends, and promotional effectiveness.**
+## 📊 Store Performance Analysis
+![Store Performance dashboard](Dashboards/Store_Performance_dashboard.png)
+## 🛒 Product Performance Analysis
+![Product Performance dashboard](Dashboards/Product_performance_dashboard.png)
+## 🎯 Promo Type Performance Analysis
+![Promo Type Performance dashboard](Dashboards/Promo_type_Performance_dashboard.png)
 
 ---
 
